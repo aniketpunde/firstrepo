@@ -12,7 +12,6 @@ function slice(arr, start, end) {
             result.push(arr[i]);
         }
     }
-    console.log(result);
     return result;
 }
 
